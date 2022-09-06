@@ -1,12 +1,3 @@
-#Enzio
-
-
-a = [10]*10
-a[4] = [5]
-a[11]=[7] #Overflow
-
-#!/usr/bin/env python3
-
 import libuser
 import random
 import hashlib
